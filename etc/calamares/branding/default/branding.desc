@@ -122,17 +122,12 @@ navigation: widget
 # are set to "true" (they can also be overridden).
 strings:
     productName:         Alci
-    shortProductName:    Generic
+    shortProductName:    Alci
     version:             2021.01.1
-    shortVersion:        2020.01
+    shortVersion:        2020.01.1
     versionedName:       Alci
-    #shortVersionedName:  Generic 2017.8
+    shortVersionedName:  Alci
     bootloaderEntryName: Generic
-#   productUrl:          https://calamares.io/
-#   supportUrl:          https://github.com/calamares/calamares/issues
-#   knownIssuesUrl:      https://calamares.io/about/
-#   releaseNotesUrl:     https://calamares.io/about/
-#   donateUrl:           https://arcolinux.info/donation/
 
 # These images are loaded from the branding module directory.
 #
