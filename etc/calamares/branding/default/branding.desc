@@ -121,12 +121,12 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         Alci
-    shortProductName:    Alci
+    productName:         ALCI
+    shortProductName:    ALCI
     version:             2021.01.1
     shortVersion:        2020.01.1
-    versionedName:       Alci
-    shortVersionedName:  Alci
+    versionedName:       ALCI
+    shortVersionedName:  ALCI
     bootloaderEntryName: Generic
 
 # These images are loaded from the branding module directory.
