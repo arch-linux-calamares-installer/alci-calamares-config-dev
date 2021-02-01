@@ -261,8 +261,3 @@ QHeaderView::section {
   font : 16px;
 }
 
-/* ########## PROGRESS BAR ########## */
-
-QProgressBar {
-	text-align: center;
-}
