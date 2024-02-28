@@ -43,7 +43,7 @@ Presentation
     	}
 
     Text {
-        anchors.horizontalCenter: background.horizontalCenter
+        anchors.horizontalCenter: background1.horizontalCenter
         anchors.top: background1.bottom
         text: "Welcome to"
         wrapMode: Text.WordWrap
@@ -67,7 +67,7 @@ Presentation
     	}
 
     Text {
-        anchors.horizontalCenter: background.horizontalCenter
+        anchors.horizontalCenter: background2.horizontalCenter
         anchors.top: background2.bottom
         text: "ALCI"
         wrapMode: Text.WordWrap
